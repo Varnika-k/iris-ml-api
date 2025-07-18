@@ -28,7 +28,6 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
    "id": "92ecb183-39ea-4f35-8ca1-ca09366c4a26",
    "metadata": {},
    "outputs": [
@@ -114,7 +113,6 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
    "id": "6e3b1dee-ceb2-4b7c-be6d-ed029704f257",
    "metadata": {},
    "outputs": [],
