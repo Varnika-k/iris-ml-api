@@ -18,7 +18,7 @@
     "import requests\n",
     "import json\n",
     "\n",
-    "url = 'http://localhost:5000/predict'\n",
+    "url = 'https://iris-ml-api-e5op.onrender.com/predict'\n", # This is your live endpoint!
     "headers = {'Content-Type': 'application/json'}\n",
     "# Sample input for a Setosa flower\n",
     "data = {'features': [5.1, 3.5, 1.4, 0.2]}\n",
